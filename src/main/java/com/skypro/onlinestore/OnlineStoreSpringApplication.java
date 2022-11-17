@@ -11,5 +11,4 @@ public class OnlineStoreSpringApplication {
         SpringApplication.run(OnlineStoreSpringApplication.class, args);
 
     }
-
 }
